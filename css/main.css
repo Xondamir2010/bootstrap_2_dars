@@ -1,0 +1,83 @@
+.container{
+    margin: 100px 400px;
+}
+.box1{
+    width: 91px;
+    height: 40px;
+    background-color: #007bff;
+    border: 1px solid #007bff;
+    border-radius: 20px;
+    float: left;
+}
+.box1 p{
+    margin: 7px 10px;
+}
+.box2{
+    width: 91px;
+    height: 40px;
+    background-color: #28a745;
+    border: 1px solid #28a745;
+    border-radius: 20px;
+    float: left;
+}
+.box2 p{
+    margin: 7px 11px;
+}
+.box3{
+    width: 91px;
+    height: 40px;
+    background-color: #17a2b8;
+    border: 1px solid #17a2b8;
+    border-radius: 20px;
+    float: left;
+}
+.box3 p{
+    margin: 7px 30px;
+}
+.box4{
+    width: 91px;
+    height: 40px;
+    background-color: #ffc107;
+    border: 1px solid #ffc107;
+    border-radius: 20px;
+    float: left;
+}
+.box4 p{
+    margin: 5px 8px;
+}
+.box5{
+    width: 91px;
+    height: 40px;
+    background-color: #dc3545;
+    border: 1px solid #dc3545;
+    border-radius: 20px;
+    float: left;
+}
+.box5 p{
+    margin: 7px 14px;
+}
+.col{
+    color: white;
+}
+.row2 > .col{
+    margin-left: -20px;
+}
+div{
+    margin-left: 20px;
+}
+.row{
+    margin-top: 20px;
+}
+.row2{
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
